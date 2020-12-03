@@ -1,0 +1,38 @@
+# Site settings
+title: "niklas-e"
+email: mail@niklas-e.fi
+description: "A blog of Niklas Engblom."
+baseurl: ""
+url: "https://niklas-e.github.io/"
+title_description: "I'm a hands-on software architect and a tech enthusiast. My intention is to write about pretty techy stuff, but let's see how it goes. I might write about other interesting stuff from time to time."
+title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "G-S9T6Q6NCMB"
+disqus_account:
+github_repository: https://github.com/niklas-e/niklas-e.github.io
+addthis_id:
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: niklas1e
+github_username:  niklas-e
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/niklas1engblom/
+google_plus_link: 
+stackoverflow_link: https://stackoverflow.com/users/1027902/niklas-e
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/niklas1e\">Niklas Engblom</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/niklas-e/niklas-e.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
