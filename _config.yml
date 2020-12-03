@@ -7,10 +7,11 @@ url: "https://niklas-e.github.io/"
 title_description: "I'm a hands-on software architect and a tech enthusiast. My intention is to write about pretty techy stuff, but let's see how it goes. I might write about other interesting stuff from time to time."
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "G-S9T6Q6NCMB"
-disqus_account:
+disqus_account: niklas-e
 github_repository: https://github.com/niklas-e/niklas-e.github.io
 addthis_id:
 post_limit: 5
+future: true
 
 # Social usernames/URLs
 twitter_username: niklas1e
