@@ -19,7 +19,7 @@ I stumbled upon a Reddit post in [/r/softwarearchitecture](https://www.reddit.co
 
 I've worked as a hands-on software architect for a few years. Used to work as a full stack developer who was often involved in architectural stuff. Total experience around 10 years.
 
-This might not be the answer you're looking for "building a good app which is scalable and efficient"; in the end that is just the culmination of you knowing your stuff. Also it is dependent on so many things that it's not answerable as is. So here's a more general level answer of becoming a software architect. Few things I think are essential and appreciated traits in a software architect. Not so surprisingly, this is based on my experience.
+Another side question was about building a good app which is scalable and efficient. But in the end that is just the culmination of you knowing your stuff. Also it is dependent on so many things that it's not answerable as is. So here's a more general level answer of becoming a software architect. Few things I think are essential and appreciated traits in a software architect. Not so surprisingly, this is based on my experience.
 
 * Experience. This is of course individual as people are different. But I'd say it would be good to have 5-8 years of experience working with variety of projects. You should know how tech things work in real life and also in general know how businesses work. After all you'll usually be the piece between tech and business.
 * Versatility. You should be able to work on all aspects of the system and its dependencies. Note, this does not mean you should already know everything about everything. Just being able to handle the big picture and work with it. This includes different techs and architectural patterns.
