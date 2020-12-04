@@ -13,7 +13,7 @@ tags:
  - architect
 ---
 
-I stumbled upon a Reddit post in [/r/softwarearchitecture](https://www.reddit.com/r/softwarearchitecture/comments/k4obtx/what_are_the_keys_to_become_a_software_arquitect){:target='_blank'} asking for insight on moving from being a software engineer to a software architect. "What would you consider to be the essential things to become a software architect?". My intention was to answer with short bulleted list, but then it escalated. This post is based on my answer on Reddit.
+I stumbled upon a Reddit post in [/r/softwarearchitecture](https://www.reddit.com/r/softwarearchitecture/){:target='_blank'} asking for insight on moving from being a software engineer to a software architect. "What would you consider to be the essential things to become a software architect?". My intention was to answer with short bulleted list, but then it escalated. This post is based on my answer on Reddit.
 
 *tldr; being able and know how to work on the big picture, and doing so by collaborating with other people (business and tech). Ideally based on experience.*
 
