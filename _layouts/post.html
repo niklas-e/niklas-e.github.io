@@ -167,12 +167,17 @@ layout: default
       {% endif %}
 
       <div class="content-panel">
-        <div class="articles">
+        <div class="latest-articles">
           <h2>Latest Articles</h2>
           <ul>
             {% for post in site.posts limit: site.post_limit %}
             <li>
+              {% if post.url != page.url %}
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              {% endif %}
+              {% if post.url == page.url %}
+              <a class="active">{{ post.title }}</a>
+              {% endif %}
               <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
             </li>
             {% endfor %}

@@ -37,6 +37,58 @@ $screen-sm-min: 768px;
 $screen-md-min: 992px;
 $screen-lg-min: 1200px;
 
+/* mixins */
+@mixin articles {
+  text-align: center;
+  font-size: 20px;
+
+  h2 {
+    margin-bottom: 30px;
+    color: $light-blue;
+    font-size: 26px;
+  }
+
+  ul {
+
+    padding: 0px;
+
+    li {
+      margin-bottom: 20px;
+      font-size: 24px;
+
+      a:hover {
+        color: $light-medium;
+      }
+
+      small {
+        font-size: 14px;
+        margin-top: -10px;
+        padding-top: 0px;
+        color: $light-medium;
+      }
+
+    }
+
+    li:nth-last-of-type(1) {
+
+      small {
+        font-size: 16px;
+      }
+
+    }
+  }
+
+  a,
+  a:active {
+    color: $white;
+    white-space: nowrap;
+  }
+
+  a:not(.active):hover {
+    color: $light-blue;
+  }
+}
+
 /* Globals */
 
 html {
@@ -307,54 +359,7 @@ ul {
   }
 
   .articles {
-    text-align: center;
-    font-size: 20px;
-
-    h2 {
-      margin-bottom: 30px;
-      color: $light-blue;
-      font-size: 26px;
-    }
-
-    ul {
-
-      padding: 0px;
-
-      li {
-        margin-bottom: 20px;
-        font-size: 24px;
-
-        a:hover {
-          color: $light-medium;
-        }
-
-        small {
-          font-size: 14px;
-          margin-top: -10px;
-          padding-top: 0px;
-          color: $light-medium;
-        }
-
-      }
-
-      li:nth-last-of-type(1) {
-
-        small {
-          font-size: 16px;
-        }
-
-      }
-    }
-
-    a,
-    a:active {
-      color: $white;
-      white-space: nowrap;
-    }
-
-    a:hover {
-      color: $light-blue;
-    }
+    @include articles;
   }
 
   .copyright {
@@ -745,6 +750,10 @@ ul {
       }
 
     }
+
+		.latest-articles {
+			@include articles;
+		}
   }
 }
 
