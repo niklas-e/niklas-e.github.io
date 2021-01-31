@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Becoming a Youtube content creator
-date:       2020-01-31 16:30:00
+date:       2021-01-31 16:30:00
 author:     Niklas Engblom
 summary:    Set up a Youtube studio and created couple of videos
 categories: General
