@@ -5,7 +5,7 @@ date:       2021-01-31 16:30:00
 author:     Niklas Engblom
 summary:    Set up a Youtube studio and created couple of videos
 categories: General
-thumbnail:  camera
+thumbnail:  youtube-play
 tags:
  - youtube
  - content creator
