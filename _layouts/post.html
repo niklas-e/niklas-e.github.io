@@ -1,5 +1,6 @@
 ---
 layout: default
+make-smaller-titles: true
 ---
 
 {% if page.minutes %}
@@ -167,7 +168,7 @@ layout: default
       {% endif %}
 
       <div class="content-panel">
-        <div class="latest-articles">
+        <div class="latest-articles articles">
           <h2>Latest Articles</h2>
           <ul>
             {% for post in site.posts limit: site.post_limit %}
