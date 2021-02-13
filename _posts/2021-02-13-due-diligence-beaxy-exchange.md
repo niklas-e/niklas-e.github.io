@@ -45,7 +45,7 @@ They announced version 2.0 and the initial goal was to address the missteps made
 Here's some notable things about the exchange
 
 * Beaxy Exchange is FinCEN (Financial Crimes Enforcement Network) Registered Money Services Business
-* Based in Chicago and they are offering crypto trading to Americans who, have been shut off from major exchanges like Binance and Kucoin (because of regulations)
+* Based in Chicago and they are offering crypto trading to Americans who have been shut off from major exchanges like Binance and Kucoin (because of regulations)
 * Built for [institutional](https://beaxy.com/institutional-accounts/){:target='_blank'} level of activity
 * Next level transparency by [integrating to Dragonchain](https://dragonchain.com/blog/beaxy-proof-systems-fraud-market-manipulation) (soon completed in production). Every single pending, rejected, filled, replaced, expired, suspended, canceled, and executed order will be recorded on chain
 * [Safety via Curv](https://beaxy.com/features/financial-custody/) - This custody service is the same used by top financial institutions around the world
