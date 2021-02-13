@@ -17,32 +17,26 @@ Before going into details I want to point out that the beef of this all is the u
 
 ## Founding
 
-Beaxy Digital Ltd was founded in 2017. They had planned a 24 month development phase before the initial launch. I didn't find good sources for total funding and backers, but it looks like by the launch in 2019 they had [secured around $8 million in funding](https://www.builtinchicago.org/2019/06/11/beaxy-launches-new-cryptoexchange){:target='_blank'}. That could be via ICO (Initial Coin Offering) of Beaxy Token held in 2019, which resulted in pretty much the same amount in total.
+Beaxy Exchange was founded in 2017. They had planned a 24 month development phase before the initial launch. I didn't find good sources for total funding and backers, but it looks like by the launch in 2019 they had [secured around $8 million in funding](https://www.builtinchicago.org/2019/06/11/beaxy-launches-new-cryptoexchange){:target='_blank'}. That could be via ICO (Initial Coin Offering) of Beaxy Token held in 2019, which resulted in pretty much the same amount in total.
 
-## Beginning and The Great Fail
+## Beginning, Beaxy 1.0
 
-Now isn't that a great heading to start the journey? I think this is a good thing to know even though it's in the past. Some people still refer to these times.
+When Beaxy was first released it was built on huge hype as The Binance Killer. There were tens of thousands preregistered accounts before the actual release date in 2019. After all, the exchange was going to go live in 43 states in the U.S. and 185 countries.
 
-When Beaxy was first released it was built on huge hype as The Binance Killer and they allegedly paid to social media influencers for shilling. In addition to that there were quite a buzz on referral links from other people too. And oh boy, were there hype and shilling everywhere. If those weren't enough, the frequent community "competitions" for listing rounds created even more buzz. There were tens of thousands preregistered accounts before the actual release date in 2019. After all, the exchange was going to go live in 43 states in the U.S. and 185 countries.
-
-So that is great and all, right? It is, kind of. However it's a fact that you need assets to build a market. You cannot build a market without them. Liquidity doesn't come to you through windows and doors when you add a listing. People will not come in and build a market for you, even if there is huge hype. You have to be more organized and ensure there will be liquidity through market making. Well, Beaxy initially had the strategy "it will be okay, people will come because of hype and build the markets" - whoopsie.
-
-To keep this section a little bit shorter, let's head to the "downfall". After the initial launch in 2019 the exchange struggled with multitude of issues, such as hacks and internal mismanagement. Oh, and remaining solvent. Indeed, there was [a hack](ttps://beincrypto.com/xrp-payment-exploit-targeted-on-beaxy-exchange-trades-rolled-back/){:target='blank'} which resulted in hacker getting away with 43.6 BTC and 111,000 XRP and shortly after it started to become clear that the exploit likely left Beaxy [insolvent](https://beincrypto.com/ceo-of-beaxy-disappears-as-the-exchange-struggles-to-remain-solvent/). The main reason for this hack was failure to install the wallet properly. However there was at least [one attempted hack](https://twitter.com/Khil0ne/status/1131940404415410176){:target='_blank'} which was unsuccessful.
+After the initial launch in 2019 the exchange struggled with multiple issues, mainly due to a lack of experience from the management. For example their strategy with market making - they trusted the hype will bring enough people who build the markets, but unfortunately that's not how it works. You have to be more organized and ensure there will be liquidity through market making. Due to this and other issues, there were discussions about Beaxy's solvency.
 
 As things started to look bad, Artak Hamazaspyan the CEO of Beaxy disappeared from publicity, missing some PR events and such. There was a period of few weeks not hearing anything about him. Meanwhile the exchange trading volume and BXY token price plummeted. Token price fell more than 50% in a week - and much more later on.
 
-All of this was the end of Beaxy Digital Ltd.
+## Rebrand, Beaxy 2.0
 
-## Rebrand
-
-Shortly after the events described above, ownership changed from Beaxy Digital Ltd to [Windy Inc](https://beaxy.com/faq/who-operates-the-beaxy-exchange/){:target='blank'}. Mainly this meant the management was replaced. It's also good to note the underlying company changed, because the questionable deals made by former management are no longer applicable. Yes, I've heard there has been such deals. Unfortunately there is no public references though.
+Shortly after the events described above, ownership changed. There was a very large independent investor who took over Beaxy from the previous management team. The ownership moved from Beaxy Digital Ltd to [Windy Inc](https://beaxy.com/faq/who-operates-the-beaxy-exchange/){:target='blank'}. Primarily this meant the management was replaced.
 
 They announced version 2.0 and the initial goal was to address the missteps made earlier. Including these highlighted features:
 
 * Improved UI and brand design
 * Enhanced back-end technology
 * Easy-to-use mobile applications
-* Healthy order books and a usable exchange design (<- they learned from the past that the people won't make the market by themselves)
+* Healthy order books and a usable exchange design
 
 [> Read more](https://beaxy.com/blog/beaxy-2-0-arrives-a-new-generation-of-trading/){:target='blank'}
 
@@ -55,15 +49,15 @@ Here's some notable things about the exchange
 * Built for [institutional](https://beaxy.com/institutional-accounts/){:target='_blank'} level of activity
 * Next level transparency by [integrating to Dragonchain](https://dragonchain.com/blog/beaxy-proof-systems-fraud-market-manipulation) (soon completed in production). Every single pending, rejected, filled, replaced, expired, suspended, canceled, and executed order will be recorded on chain
 * [Safety via Curv](https://beaxy.com/features/financial-custody/) - This custody service is the same used by top financial institutions around the world
-* [Free and easy to use AI-powered technical analysis signals](https://beaxy.com/features/signals/){:target='blank'} (provided by Autochartist, a third-party integration, which makes it less likely that Beaxy would try to trick you)
-* Innovative and unique mobile app feature [Trender](https://beaxy.com/blog/trender-a-revolutionary-swipe-based-trading-app-powered-by-beaxy-exchange/){:target='blank'}, which is basically Tinder for trading. It is built on the aforementioned signals.
+* [Free and easy to use AI-powered technical analysis signals](https://beaxy.com/features/signals/){:target='blank'} (provided by Autochartist, a third-party who are experts in the field, unaffiliated with Beaxy)
+* Innovative and unique mobile app feature [Trender](https://beaxy.com/blog/trender-a-revolutionary-swipe-based-trading-app-powered-by-beaxy-exchange/){:target='blank'}, which is basically Tinder for trading. It is built on the aforementioned signals and makes them even easier to use, if possible.
 * Soon to be released wide support for fiat: USD, EUR, GBP, JPY, CAD and AUD
 
 ## Integrations
 
 In addition to basic trading functionalities they are working on integrating trading bots. In practice this means robust APIs, which could be used for other purposes too. Bots are mainly used by advanced traders and institutions. I think these are integral part of increasing and maintaining trading volume and healthy liquidity. This far they have announced they will support Gunbot, Hummingbot and Autonio. The integrations are in the state of polishing; almost ready for production use.
 
-At this point I'm not sure about the details, because there has not been official detailed announcements regarding this, but they have announced integration with [MetaTrader 5 forex](https://www.metatrader5.com/){:target='_blank'} platform. Practically this means mutual exposure in their services. This sounds like a superb partnership and could potentially bring a lot of volume.
+At this point I'm not sure about the details, because there has not been official detailed announcements regarding this, but they have announced integration with [MetaTrader 5 forex](https://www.metatrader5.com/){:target='_blank'} platform. Practically this means mutual exposure in their services. This sounds like a superb partnership and could potentially bring a lot of volume. I might update this article once I learn more about this.
 
 ## Beaxy Black
 
@@ -78,7 +72,6 @@ So basically you could think those rewards as lowered trading fees.
 * [Max total supply 500 million tokens](https://etherscan.io/token/0x827d53c8170af52625f414bde00326fc8a085e86){:target='_blank'}
 * Estimated circulating supply 100-200 million (locked up tokens held by employees, the treasury, etc. are not counted)
   * Unfortunately cannot find public announcement or post about this, but this has been commented somewhere by the team. They've also said they are not planning to release all of the 500 million tokens (for example because of the burns)
-  * Also related to this, few days ago they [tweeted](https://twitter.com/BeaxyExchange/status/1359180434660225027){:target='blank'} *"63,671,142 $BXY tokens are locked in STK, with 49,875,838 locked for 12 months"*
 * Lowered trading fees
   * based on your trading volume and/or how much you have BXY in your balance
   * if you enable "Pay with BXY" feature - your trading fees will be paid with BXY at lowered rate
@@ -91,20 +84,17 @@ The new team (Beaxy 2.0) has also expressed desire to lower the token supply. On
 
 So in addition to lowered trading fees you can join the loyalty program by staking (locking up) your BXY. Why would you do that? Well, now we are getting to the main part of this whole write-up. Because the Diamond Tier is epic. But before jumping into that, let's take a look at Sapphire Tier.
 
-Sapphire tier (released) - you can stake 30,000 - 999,999 BXY and gain 1-12% annual interest rate, based on the time you are staking (1-12 months).
+Sapphire tier (released) - you can stake 30,000 - 999,999 BXY and gain 1-12% annual interest rate, based on the time you are staking (1-12 months). Related to this, few days ago they [tweeted](https://twitter.com/BeaxyExchange/status/1359180434660225027){:target='blank'} *"63,671,142 $BXY tokens are locked in STK, with 49,875,838 locked for 12 months"*
 
 Diamond tier (coming soon) - when you stake 1,000,000 BXY or more you will gain a percentual slice from their revenue. Holy crap! They will pool up 7% of their revenue from trade fees and distribute that between the members of Diamond tier. Daily. There is pretty much always an amazing potential if you have a chance to get percentual slice of revenue; when the revenue grows, so does your slice.
 
-Ok let's do some math here. Please keep in mind this is completely theoretical... Let's say you'll get to the diamond club by accumulating exactly one million tokens. For simplicity's sake we'll use average trading volume of 10,000,000 and average trading fee percentage of 0.15. This would yield a daily rewards pool of $1050.
+Ok let's do some math here. Please keep in mind this is completely theoretical... Let's say you'll get to the diamond club by accumulating exactly one million BXY. For simplicity's sake let's use average trading volume of 10,000,000 and average trading fee percentage of 0.15. This would yield a daily rewards pool of $1050. I'll add couple of scenarios here based on the aforementioned values. Obviously all of this is just guessing and throwing in rough estimates. I'm not quite sure what would be a realistic amount of staked tokens in Diamond tier, but it's pretty safe to say there will not be over 200 million (which is already way too high to be realistic in my opinion).
 
-I'll add couple of scenarios here based on the aforementioned values. Obviously all of this is just guessing and throwing in rough estimates. I'm not quite sure what would be a realistic amount of staked tokens in Diamond tier, but it's pretty safe to say there will not be over 200 million (which is already way too high to be realistic in my opinion).
-
-Total tokens staked in Diamond tier | Your daily slice
-200,000,000 | $5.25
-150,000,000 | $7
-100,000,000 | $10.5
-75,000,000 | $14
-50,000,000 | $21
+Total stake in Diamond tier | Avg. daily volume | Your BXY stake | Your daily slice
+100m BXY | $10m | 1,000,000 | $10.5
+75m BXY | $10m | 1,000,000 | $14
+50m BXY | $10m | 1,000,000 | $21
+25m BXY | $10m | 1,000,000 | $42
 
 Here's an official writing about the loyalty programs: [https://beaxy.com/blog/revolutionizing-crypto-loyalties-and-rewards-the-stk-standard/](https://beaxy.com/blog/revolutionizing-crypto-loyalties-and-rewards-the-stk-standard/){:target='blank'}
 
