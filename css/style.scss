@@ -620,6 +620,21 @@ ul {
         list-style-type: decimal;
       }
 
+      figure.image {
+        border: 1px solid #000;
+        margin: 10px 0;
+
+        img {
+          padding: 0;
+          margin: 0;
+        }
+
+        figcaption {
+          background: rgba(0, 0, 0, 0.5);
+          padding: 5px;
+        }
+      }
+
       blockquote {
         position: relative;
         width: 100%;
@@ -751,9 +766,9 @@ ul {
 
     }
 
-		.latest-articles {
-			@include articles;
-		}
+    .latest-articles {
+      @include articles;
+    }
   }
 }
 
