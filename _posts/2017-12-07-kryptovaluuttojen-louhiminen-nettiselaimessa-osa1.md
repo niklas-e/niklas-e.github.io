@@ -11,7 +11,7 @@ tags:
  - kryptovaluutta
 ---
 
-*Tämä kirjoitus on alunperin julkaistu digilouhija.fi blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
+*Tämä kirjoitus on alunperin julkaistu [digilouhija.fi]({% post_url 2017-12-01-digilouhija-esittely %}) blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
 
 Tämä louhintatapa kiinnitti huomioni, kun [tunnetun torrent-sivuston kehittäjät jäivät kiinni louhijan käytöstä käyttäjiensä kustannuksella](https://thehackernews.com/2017/09/pirate-bay-cryptocurrency-mining.html){:target='_blank'}. Tietenkin tyylikkäästi myös ilman käyttäjiltä kysymistä. Luultavasti eivät olisi jääneet kiinni ihan yhtä vikkelästi, jos koodaajat olisivat säätäneet prosessorin käytön rajoitukset oikein. Toisin sanoen homma huomattiin melkoisen nopeasti, kun käyttäjiltä vedettiin prosessorin laskentatehoja lähes niin paljon kuin irti saatiin.
 

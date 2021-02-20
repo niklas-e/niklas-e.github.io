@@ -11,7 +11,7 @@ tags:
  - kryptovaluutta
 ---
 
-*Tämä kirjoitus on alunperin julkaistu digilouhija.fi blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
+*Tämä kirjoitus on alunperin julkaistu [digilouhija.fi]({% post_url 2017-12-01-digilouhija-esittely %}) blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
 
  Viime kirjoituksessa mainitsin ottavani aiheeksi louhinnan. Olen kirjoittanut aiemmin [kryptovaluuttojen louhinnasta nettiselaimessa]({% post_url 2017-12-07-kryptovaluuttojen-louhiminen-nettiselaimessa-osa1 %}) ja ajattelin taas lähteä syventymään helposti lähestyttävällä esimerkillä. Mobiililaitteella louhimisella en kuitenkaan tarkoita louhintaa laitteen nettiselaimilla. Siinä ei nimittäin ihan hirveästi tule tuottoa, kuten meikäläisen aiemmista kirjoituksista huomaa. Sen sijaan ajattelin kertoa Electroneum nimisestä valuutasta.
 

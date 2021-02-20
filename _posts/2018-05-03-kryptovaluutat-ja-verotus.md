@@ -11,7 +11,7 @@ tags:
  - kryptovaluutta
 ---
 
-*Tämä kirjoitus on alunperin julkaistu digilouhija.fi blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
+*Tämä kirjoitus on alunperin julkaistu [digilouhija.fi]({% post_url 2017-12-01-digilouhija-esittely %}) blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
 
  Ah, tuo iloa ja mielihyvää herättävä aihealue, verotus. Tästä ajattelin raapustella teille omia tutkimustuloksia ja havaintoja. Tarkennuksena vielä, että nimenomaan louhinnan kannalta. Sijoituksissa ei taida hirveästi olla kiemuroita perinteisempään sijoittamiseen verrattuna. Huomioitavaa on lähinnä, että tappioita et voi vähentää verotuksessa.
 

@@ -11,7 +11,7 @@ tags:
  - kryptovaluutta
 ---
 
-*Tämä kirjoitus on alunperin julkaistu digilouhija.fi blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
+*Tämä kirjoitus on alunperin julkaistu [digilouhija.fi]({% post_url 2017-12-01-digilouhija-esittely %}) blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
 
 Edellisessä kirjoituksessa jäi selkeyttämättä se, että louhinta selaimen kautta tapahtuu prosessorilla. Tällä hetkellä selainten käyttömahdollisuudet näytönohjaimien osalta ovat hyvinkin nihkeät.
 

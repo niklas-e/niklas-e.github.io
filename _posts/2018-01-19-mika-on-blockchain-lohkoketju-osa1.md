@@ -11,7 +11,7 @@ tags:
  - kryptovaluutta
 ---
 
-*Tämä kirjoitus on alunperin julkaistu digilouhija.fi blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
+*Tämä kirjoitus on alunperin julkaistu [digilouhija.fi]({% post_url 2017-12-01-digilouhija-esittely %}) blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
 
  Kun aloin tutkimaan kryptovaluuttoja, kaikkialla puhuttiin blockchainista tai suomalaisittain lohkoketjusta. Vaikutti siltä, että se on kryptovaluuttojen ydin. Ihan heti en päässyt kärryille, mikä se tarkalleen ottaen on, mutta lisätutkimisen jälkeen asia alkoi jokseenkin valjeta. Aihe on melko haastava selittää kokonaan, mutta yritänpä kuitenkin avata aihetta edes hieman.
 

@@ -11,7 +11,7 @@ tags:
  - kryptovaluutta
 ---
 
-*Tämä kirjoitus on alunperin julkaistu digilouhija.fi blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
+*Tämä kirjoitus on alunperin julkaistu [digilouhija.fi]({% post_url 2017-12-01-digilouhija-esittely %}) blogissa, josta siirsin sen tähän henkilökohtaiseen blogiini.*
 
 Vähään aikaan en ole kirjoitellut tänne, mutta se ei suinkaan tarkoita sitä, että olisin jättänyt nämä asiat taakseni. Melkeinpä päinvastoin. Paljon on tapahtunut. Näin ollen kirjoitan pienen yhteenvedon, jonka jälkeen (toivottavasti) voin palata jatkamaan siitä mihin edellinen kirjoitus jäi.
 
