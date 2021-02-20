@@ -21,5 +21,24 @@ Bitcoinin ja muiden kryptojen kurssikäyriä katsellessa ei voi kuin ihmetellä 
 
 Yhteenvetona voisi sanoa, että aion selvittää miten kryptovaluutat toimivat sekä eri vaihtoehtoja, miten voin louhia kryptovaluuttoja ja minkälaisille tienesteille niillä voi päästä. Lisäksi toki haluan selvittää mihin sitä voi käyttää. Päätin aloittaa tutustumisen helpoimmasta mahdollisesta ratkaisusta, joka ei vaadi oikeastaan mitään lisähankintoja suoraan. Kyseessä on tietenkin nettiselaimessa toimiva JavaScript-pohjainen toteutus. Siitä lisää heti ensimmäisessä kirjoituksessa.
 
+---
+
 * Digilouhija Twitterissä: <https://twitter.com/hashtag/digilouhija>{:target='_blank'}
 * Digilouhija Facebookissa: <https://www.facebook.com/digilouhija>{:target='_blank'}
+
+---
+
+Siirretyt kirjoitukset:
+
+* [Kryptovaluuttojen louhiminen nettiselaimessa (JavaScript), osa 1]({% post_url 2017-12-07-kryptovaluuttojen-louhiminen-nettiselaimessa-osa1 %})
+* [Kryptovaluuttojen louhiminen nettiselaimessa (JavaScript), osa 2]({% post_url 2017-12-28-kryptovaluuttojen-louhiminen-nettiselaimessa-osa2 %})
+* [Mikä on blockchain/lohkoketju, osa 1]({% post_url 2018-01-19-mika-on-blockchain-lohkoketju-osa1 %})
+* [Mikä on blockchain/lohkoketju, osa 2]({% post_url 2018-03-04-mika-on-blockchain-lohkoketju-osa2 %})
+* [Miksi kryptovaluutat ovat mielenkiintoisia]({% post_url 2018-05-02-miksi-kryptovaluutat-ovat-mielenkiintoisia %})
+* [Kryptovaluutat ja verotus]({% post_url 2018-05-03-kryptovaluutat-ja-verotus %})
+* [Kryptovaluuttojen louhiminen mobiililaitteella]({% post_url 2018-05-08-kryptovaluuttojen-louhiminen-mobiililaitteella  %})
+* [...ja hommahan eskaloitui]({% post_url 2019-02-26-ja-hommahan-eskaloitui %})
+
+---
+
+{% include image.html url="/img/digilouhija-fi-screenshot.png" description="Kuvankaappaus alkuperäisestä digilouhija.fi blogista" %}
