@@ -11,6 +11,10 @@ tags:
  - cryptocurrency
 ---
 
+*This article has been updated after the initial publication. The [edit notes](#edit-notes) are at the end of the article.*
+
+---
+
 Hello there, you most likely don't know me. That's already a great reason to do your own research, but hear me out. You might get some insight on US based cryptocurrency exchange called Beaxy Exchange and its utility token Beaxy (BXY). I also wanted to do a write-up of this because some of my friends have been asking about cryptocurrencies and my take on it. Which is not too surprising given the ongoing bull market. I think the cryptocurrencies are going to be a big thing, bigger than they are now. However it's pretty difficult to place your bets on the best projects, although at this point BTC and ETH are quite solid options. But the thing is, if cryptocurrencies are going to go on, where will the markets be? Yep, (cryptocurrency) exchanges. What if there would be a potential exchange which is built for retail and institutional level of trading and it is possible to get a percentual slice of their revenue? And to add to that, it's relatively cheap to secure your position currently. This could be Beaxy Exchange - if that sounds good, keep on reading.
 
 Before going into details I want to point out that the beef of this all is the utility token BXY. I'll just go through the highlights of Beaxy Exchange to give you a better understanding what it is about. Please note everything is based on public information which can be rather limited from time to time when dealing with private companies. Anyhow, here it is, my due diligence or a research of Beaxy.
@@ -57,7 +61,7 @@ Here's some notable things about the exchange
 
 In addition to basic trading functionalities they are working on integrating trading bots. In practice this means robust APIs, which could be used for other purposes too. Bots are mainly used by advanced traders and institutions. I think these are integral part of increasing and maintaining trading volume and healthy liquidity. This far they have announced they will support Gunbot, Hummingbot and Autonio. The integrations are in the state of polishing; almost ready for production use.
 
-At this point I'm not sure about the details, because there has not been official detailed announcements regarding this, but they have announced integration with [MetaTrader 5 forex](https://www.metatrader5.com/){:target='_blank'} platform. Practically this means mutual exposure in their services. This sounds like a superb partnership and could potentially bring a lot of volume. I might update this article once I learn more about this.
+The aforementioned APIs are regular web APIs - basically REST and websockets. In addition to those, they have announced an integration with [MetaTrader 5 (MT5) forex](https://www.metatrader5.com/){:target='_blank'} platform. This integration will not be using the regular APIs, but instead a FIX (Financial Information eXchange) API. FIX is a protocol which enables low latency communication and is used widely for example in NASDAQ. As Cooper, Beaxy's Head of Customer Service, [described in the latest AMA](https://youtu.be/T3HGqvYmHB4?t=410){:target='_blank'} in terms of internet connections "REST and websocket APIs are like your cable connection and the FIX API is the trunk line your ISP is using to connect to the larger system". Anyhow, the integration will be quite exciting businesswise, because Beaxy will be the only cryptocurrency exchange integrated into MetaTrader platform. This will give pretty nice exposure to Beaxy and helps in bringing trading volume to the exchange.
 
 ## Beaxy Black
 
@@ -77,6 +81,7 @@ So basically you could think those rewards as lowered trading fees.
   * if you enable "Pay with BXY" feature - your trading fees will be paid with BXY at lowered rate
   * [Read more about fee structure](https://beaxy.com/faq/what-is-the-fee-structure/){:target='blank'}
 * Possible circular economy: people buy BXY -> people pay trading fees with BXY -> used tokens end up back to market after Beaxy sells them
+  * Though some of the used BXY will most likely end up as rewards for Sapphire tier (more info below)
 
 The new team (Beaxy 2.0) has also expressed desire to lower the token supply. One of the programs related to this was called [Beaxy Blaze](https://beaxy.com/legal/beaxy-blaze-program/){:target='_blank'}, where they will burn 250,000 BXY tokens when average daily volume surpasses 2.5 million USD across the exchange. However, unfortunately, this program was cancelled because of too low volume.
 
@@ -96,9 +101,15 @@ Total stake in Diamond tier | Avg. daily volume | Your BXY stake | Your daily sl
 50m BXY | $10m | 1,000,000 | $21
 25m BXY | $10m | 1,000,000 | $42
 
-Here's an official writing about the loyalty programs: [https://beaxy.com/blog/revolutionizing-crypto-loyalties-and-rewards-the-stk-standard/](https://beaxy.com/blog/revolutionizing-crypto-loyalties-and-rewards-the-stk-standard/){:target='blank'}
+Here's an official writing about the loyalty programs: <https://beaxy.com/blog/revolutionizing-crypto-loyalties-and-rewards-the-stk-standard/>{:target='blank'}
 
 **note that holding the tokens is not same as holding shares of the company. You will not get any slice of the actual company.**
+
+## Growing userbase
+
+Growing the userbase is of course a crucial part to get things rolling. Especially attracting active traders. They've of course been working on their SEO and overall marketing and they've discussed it in their AMA sessions and other channels. From the things mentioned before, trading incentives and bot integrations are a good way to lure new traders.
+
+Beaxy also has a very nice referral program to help to grow their userbase. You will receive 30% of trading commissions from your referrals. For lifetime. I think that is rather lucrative deal to get your friends and acquaintances on board. So without further ado, only for you my friend - here's my [Beaxy referral link](https://click.beaxy.com/goto/track/?affiliateid=15505){:target='_blank'} ;)
 
 ## Summary and takeaways
 
@@ -117,6 +128,21 @@ Before you get too excited of this hidden gem, I have to say this is a **HIGH RI
 
 ...but then again things look quite promising from here. Most of the startups (all industries) fail during the first year, Beaxy has been around longer. Development is consistent, new features and partnerships have been coming in. They have also mentioned the success of the exchange is not dependent on the token price, which is quite obvious at this point, but important to note they have enough funding and cash flow. Also I think the trading volume will increase and be much more consistent when the bot integrations are completed. By the way, the highest peaks of ADV during this year have been $17-21 million [(?)](https://www.coingecko.com/en/exchanges/beaxy#statistics){:target='blank'}.
 
-In case you are interested in hopping on Beaxy, please consider using my referral link: [https://click.beaxy.com/goto/track/?affiliateid=15505](https://click.beaxy.com/goto/track/?affiliateid=15505){:target='blank'}. Yeah, referral links are still there and I think it's a great way to grow the userbase. If you do plan to get BXY and hold, remember that you can help its success by participating in trading on the exchange. Trading volume is the most important indicator of exchange's success. Even if the success of the exchange is not dependent on token price, the token price is dependent on the success of the exchange.
+In case you are interested in hopping on Beaxy, please consider using my referral link: <https://click.beaxy.com/goto/track/?affiliateid=15505>{:target='blank'}. Yeah, referral links are still there and I think it's a great way to grow the userbase. If you do plan to get BXY and hold, remember that you can help its success by participating in trading on the exchange. Trading volume is the most important indicator of exchange's success. Even if the success of the exchange is not dependent on token price, the token price is dependent on the success of the exchange.
 
 At this point you probably know I'm bullish about this exchange and the utility token. As a user I know everything is not perfect, but they are working hard and doing the right things. What's your thoughts, did I miss something or is there flaws in this writing? I'd like to hear.
+
+---
+
+*Disclaimer if you are going to trade on low volume markets:*
+
+*Some people have tried using stop loss and OUO for risk management on low volume markets. This is something you should consider twice before using in low volume markets. They can be triggered when market makers are reorganizing their orders because there might not be other resting orders in the books on expected levels.*
+
+---
+
+### Edit notes
+
+* 2021-03-22
+  * Added more information on MetaTrader 5 integration
+  * Added "Growing userbase" section
+  * Added a disclaimer regarding low volume markets
