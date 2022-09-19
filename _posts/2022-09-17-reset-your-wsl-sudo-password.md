@@ -23,12 +23,13 @@ Ok, I'm pretty sure I am not the only one who has set up their WSL (Windows Subs
 1. Run `logout` or hit `Ctrl`+`D` (will log out as root)
 1. Now your password has been changed
 
+And the same thing in a short video:
 {% include youtube.html video_id="mnwgz-TnfxE" %}
 
 ## In case you have multiple WSL distros installed
 
 1. Open Command Prompt (Hit `Windows key` on your keyboard and type in `cmd` and launch `Command Prompt` by hitting `Enter`) - following steps are executed in the Command Prompt
-1. Run `wsl --list` to get your WSL distribution name | The list shows distribution names in `Ubuntu-22.04` format, but for the next steps you have to transform it into e.g. `ubuntu2204` (replace `<your-distro-name>` with this)
+1. Run `wsl --list` to get your WSL distribution name - the list shows distribution names in `Ubuntu-22.04` format, but for the next steps you have to transform it into e.g. `ubuntu2204` (replace `<your-distro-name>` with this)
 1. Run `<your-distro-name> run whoami` to get your WSL username
 1. Run `<your-distro-name> run --user root`
 1. Run `passwd <your-username>` and enter a new password for your user
