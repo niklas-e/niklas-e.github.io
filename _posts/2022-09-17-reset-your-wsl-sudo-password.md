@@ -14,6 +14,8 @@ tags:
 
 Ok, I'm pretty sure I am not the only one who has set up their WSL (Windows Subsystem Linux) password and thought something like "yeah, I'll surely remember this, it's so simple and easy to remember". Just to notice a couple weeks later you indeed forgot the password, because you didn't use it actively. Also maybe because it was so easy (and at the same time different from other passwords?). Before judging me completely, I have to say that I do use credentials manager to keep my credentials in a good place. Then again, there's times when you just think "meh, I don't need to save this, it's so simple" or simply forget to save it. Okay, okay, enough of rambling; let's get to the point 😅
 
+Notice! There's also short video guides at the end of the post
+
 ## Changing your WSL password for default distribution (or when you only have one distribution installed)
 
 1. Open Command Prompt (Hit `Windows key` on your keyboard and type in `cmd`) - following steps are executed in the Command Prompt
@@ -22,9 +24,6 @@ Ok, I'm pretty sure I am not the only one who has set up their WSL (Windows Subs
 1. Run `passwd <your-username>` and enter a new password for your user
 1. Run `logout` or hit `Ctrl`+`D` (will log out as root)
 1. Now your password has been changed
-
-And the same thing in a short video:
-{% include youtube.html video_id="mnwgz-TnfxE" %}
 
 ## In case you have multiple WSL distros installed
 
@@ -35,3 +34,11 @@ And the same thing in a short video:
 1. Run `passwd <your-username>` and enter a new password for your user
 1. Run `logout` or hit `Ctrl`+`D` (will log out as root)
 1. Now your password has been changed
+
+## And here's a recap in form of short videos
+
+Reset sudo password in WSL:
+{% include youtube.html video_id="mnwgz-TnfxE" %}
+
+Reset sudo password in WSL when you have multiple Linux distributions installed:
+{% include youtube.html video_id="QhzSq6LEUQM" %}
