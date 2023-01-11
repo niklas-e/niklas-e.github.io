@@ -614,7 +614,11 @@ ul {
 
       iframe.video-portrait {
         aspect-ratio: 9 / 16;
-        width: 33%;
+        width: 100%;
+
+        @media (min-width: $screen-sm-min) {
+          width: 33%;
+        }
       }
 
       iframe.video-landscape {
