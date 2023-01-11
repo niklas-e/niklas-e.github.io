@@ -612,6 +612,16 @@ ul {
         margin-right: auto
       }
 
+      iframe.video-portrait {
+        aspect-ratio: 9 / 16;
+        width: 33%;
+      }
+
+      iframe.video-landscape {
+        aspect-ratio: 16 / 9;
+        width: 100%;
+      }
+
       ul {
         list-style-type: disc;
       }

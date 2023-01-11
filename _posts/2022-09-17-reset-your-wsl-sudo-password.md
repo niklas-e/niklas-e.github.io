@@ -38,7 +38,7 @@ Notice! There's also short video guides at the end of the post
 ## And here's a recap in form of short videos
 
 Reset sudo password in WSL:
-{% include youtube.html video_id="mnwgz-TnfxE" %}
+{% include youtube.html video_id="mnwgz-TnfxE" orientation="portrait" %}
 
 Reset sudo password in WSL when you have multiple Linux distributions installed:
-{% include youtube.html video_id="QhzSq6LEUQM" %}
+{% include youtube.html video_id="QhzSq6LEUQM" orientation="portrait" %}
