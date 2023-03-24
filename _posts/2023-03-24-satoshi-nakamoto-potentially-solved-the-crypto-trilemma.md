@@ -84,7 +84,7 @@ Very plausible solution for the crypto trilemma has already been published, as y
   * In case you didn't know, Bitcoin is referred as digital gold and Kaspa means literally silver in Ancient Aramaic
 * Oh by the way, did you notice it from the Twitter screenshot? He had "a real imposter" in his bio. Indeed, Satoshi Nakamoto is one of the best imposters of the century.
 
-Okay, maybe that is enough. I know it is just speculation and it might be time to tighten up the tinfoil hat, but it's still fun once in a while to play the guessing game. However, at this point you might have already forgotten the title of this post which had trilemma in it too.
+Okay, maybe that is enough. I know it is just speculation and it might be time to tighten up the tinfoil hat, but it's still fun once in a while to play the guessing game.
 
 ## Conclusion
 
