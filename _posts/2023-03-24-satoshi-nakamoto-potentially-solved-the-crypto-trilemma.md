@@ -98,3 +98,5 @@ Regardless of whether Yonatan is Satoshi Nakamoto or not, his work has undeniabl
 
 Thank you for reading and leave a comment on what you think!
 
+This post was very much inspired by a [Twitter thread from @crypto_nic47](https://twitter.com/crypto_nic47/status/1594693316624400384?s=20){:target='_blank'}
+
