@@ -12,7 +12,7 @@ tags:
 
 Disclaimer: At the time of writing this piece [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto){:target='_blank'} is officially an unknown entity, but there has been quite a few speculations about the identity behind the pseudonym. Might be a single person, might be a group of people.
 
-In this article, we delve into the intriguing possibility that Yonatan Sompolinsky, a pioneer in the field of cryptocurrency, might be Satoshi Nakamoto. We explore how his work, particularly on improving the Nakamoto consensus and creating new protocols, has the potential to address the long-standing challenge of the crypto trilemma. Without further ado, let's examine the evidence and see if Yonatan could be the person behind the pseudonym that revolutionized digital currency.
+In this post, we delve into the intriguing possibility that Yonatan Sompolinsky, a pioneer in the field of cryptocurrency, might be Satoshi Nakamoto. We explore how his work, particularly on improving the Nakamoto consensus and creating new protocols, has the potential to address the long-standing challenge of the crypto trilemma. Without further ado, let's examine the evidence and see if Yonatan could be the person behind the pseudonym that revolutionized digital currency.
 
 ## 1. Timing
 
@@ -53,9 +53,9 @@ So Yonatan is from Israel and they speak Hebrew in there. If you pronounce 'Onny
 
 ## 5. Birthday
 
-Yonatan's birthday is the same as Satoshi (April 5) had in their profile on e.g. P2P Foundation forum (one of the first places where Bitcoin was announced).
+Yonatan's birthday is the same as Satoshi (April 5th) had in their profile on e.g. P2P Foundation forum (one of the first places where Bitcoin was announced).
 
-However it's good to note the leading theory for Satoshi's birthday. April 5 is a very significant date in U.S. monetary history. It is the date of [Executive Order 6102 by Franklin D. Roosevelt](https://www.presidency.ucsb.edu/documents/executive-order-6102-requiring-gold-coin-gold-bullion-and-gold-certificates-be-delivered){:target='_blank'}. Private ownership or "hoarding" of gold coin, bullion and certificates were outlawed by the order. Only small amounts (valued under $100) were allowed, for use in industrial trades, or a few other exceptions. Americans were also required to cede any significant amount of gold to the Federal Reserve in exchange for dollars. Roosevelt then devalued those dollars to make it easier to repay the huge debt that had built up during the Great Depression.
+However it's good to note the leading theory for Satoshi's birthday. April 5th is a very significant date in U.S. monetary history. It is the date of [Executive Order 6102 by Franklin D. Roosevelt](https://www.presidency.ucsb.edu/documents/executive-order-6102-requiring-gold-coin-gold-bullion-and-gold-certificates-be-delivered){:target='_blank'}. Private ownership or "hoarding" of gold coin, bullion and certificates were outlawed by the order. Only small amounts (valued under $100) were allowed, for use in industrial trades, or a few other exceptions. Americans were also required to cede any significant amount of gold to the Federal Reserve in exchange for dollars. Roosevelt then devalued those dollars to make it easier to repay the huge debt that had built up during the Great Depression.
 
 Why would Satoshi pick that date from monetary history? It's known Satoshi was concerned about the power of individuals to preserve their wealth and keep it safe from state intervention.
 
