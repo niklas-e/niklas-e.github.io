@@ -6,6 +6,7 @@ author:     Niklas Engblom
 summary:    Exploring the potential identity of Satoshi Nakamoto and the plausible solution to the crypto trilemma.
 categories: Tech
 thumbnail:  bitcoin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/1024px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg
 tags:
  - cryptocurrency
 ---
