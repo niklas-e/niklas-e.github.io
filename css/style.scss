@@ -82,7 +82,6 @@ $screen-lg-min: 1200px;
   a:active {
     color: $white;
     white-space: nowrap;
-    word-break: break-all;
   }
 
   a:not(.active):hover {
@@ -111,6 +110,7 @@ a,
 a:active {
   color: $light-blue;
   text-decoration: none;
+  word-break: break-all;
 }
 
 a:hover {
