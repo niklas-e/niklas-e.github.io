@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      ...ja hommahan eskaloitui
 date:       2019-02-26 17:30:00
 author:     Niklas Engblom

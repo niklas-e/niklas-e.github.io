@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      Mikä on blockchain/lohkoketju, osa 2
 date:       2018-03-04 17:30:00
 author:     Niklas Engblom

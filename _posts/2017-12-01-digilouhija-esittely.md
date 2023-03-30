@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      Digilouhija
 date:       2017-12-01 17:30:00
 author:     Niklas Engblom

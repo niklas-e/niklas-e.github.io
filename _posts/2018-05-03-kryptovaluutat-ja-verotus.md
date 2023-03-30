@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      Kryptovaluutat ja verotus
 date:       2018-05-03 17:30:00
 author:     Niklas Engblom

@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      Kryptovaluuttojen louhiminen mobiililaitteella
 date:       2018-05-08 17:30:00
 author:     Niklas Engblom

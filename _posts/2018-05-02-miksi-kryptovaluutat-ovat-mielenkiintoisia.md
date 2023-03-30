@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      Miksi kryptovaluutat ovat mielenkiintoisia
 date:       2018-05-02 17:30:00
 author:     Niklas Engblom

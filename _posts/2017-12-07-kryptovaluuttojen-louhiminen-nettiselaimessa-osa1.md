@@ -1,5 +1,6 @@
 ---
 layout:     post
+language:   fi
 title:      Kryptovaluuttojen louhiminen nettiselaimessa (JavaScript), osa 1
 date:       2017-12-07 17:30:00
 author:     Niklas Engblom
