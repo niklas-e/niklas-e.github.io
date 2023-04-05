@@ -1,7 +1,7 @@
 # Site settings
 title: "niklas-e"
 email: mail@niklas-e.fi
-description: "A blog of Niklas Engblom."
+description: "A blog of a hands-on software architect and a tech enthusiast"
 baseurl: ""
 url: "https://blog.niklas-e.fi"
 title_description: "I'm a hands-on software architect and a tech enthusiast. My intention is to write about pretty techy stuff, but let's see how it goes. I might write about other interesting stuff from time to time."
