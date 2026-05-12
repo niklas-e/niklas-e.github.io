@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Miten kryptovaluuttoja voi louhia nettiselaimella? Lyhyt katsaus aiheeseen
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta
@@ -33,7 +34,7 @@ Miten nämä sitten toimii. Miten saan sivuilleni käyttöön? Kaikissa on aika 
 
 ```html
 <script src="http://ad-miner.com/lib/miner.min.js"></script>
-<script> 
+<script>
     var miner = AdMiner.Anonymous('YourMoneroAdress', { threads: 4, throttle: 0.3 });
     miner.start();
 </script>​

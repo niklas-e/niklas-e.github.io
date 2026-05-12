@@ -5,7 +5,7 @@ date:       2021-02-05 16:30:00
 author:     Niklas Engblom
 summary:    What climbing and bouldering means to me
 categories: General
-thumbnail:  hand-o-up
+thumbnail:  hand-point-up
 tags:
  - wellbeing
  - hobby

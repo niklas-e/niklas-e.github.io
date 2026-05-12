@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Mikä on blockchain/lohkoketjut, yksinkertaistetusti teknologian perusteet
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

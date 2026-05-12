@@ -6,6 +6,7 @@ author:     Niklas Engblom
 summary:    Exploring the potential identity of Satoshi Nakamoto and the plausible solution to the crypto trilemma.
 categories: Tech
 thumbnail:  bitcoin
+thumbnail_style: fa-brands
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/1024px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg
 tags:
  - cryptocurrency
@@ -34,7 +35,7 @@ The Nakamoto consensus is the underlying mechanism used by Bitcoin to maintain a
 
 At this point I have to give first mention to [Kaspa](https://kaspa.org/){:target='_blank'} for this to make more sense. Kaspa is a cryptocurrency (layer 1) released in November 2021. Its current protocol, PHANTOM GHOSTDAG, is a scalable generalization of Nakamoto consensus. Next up in relatively near future of Kaspa the DAG KNIGHT protocol will be adopted. Both of these protocols have their roots in the Bitcoin whitepaper and the GHOST protocol, which Yonatan co-authored.
 
-I'd say these are not trivial academic research papers, but see for yourself. 
+I'd say these are not trivial academic research papers, but see for yourself.
 
 * 2013 GHOST: <https://eprint.iacr.org/2013/881.pdf>{:target='_blank'}
 * 2016 SPECTRE: <https://eprint.iacr.org/2016/1159.pdf>{:target='_blank'}

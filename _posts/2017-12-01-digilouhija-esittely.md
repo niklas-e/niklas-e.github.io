@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Esittely digilouhija.fi projektiin ja blogiin
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

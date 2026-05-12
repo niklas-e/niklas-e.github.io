@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Miten kryptovaluuttoja voi louhia nettiselaimella? Lyhyt katsaus aiheeseen
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

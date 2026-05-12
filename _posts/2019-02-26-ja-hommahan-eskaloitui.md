@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Pitkän tauon jälkeen pieni kertaus, mitä kaikkea on ehtinyt tapahtumaan
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

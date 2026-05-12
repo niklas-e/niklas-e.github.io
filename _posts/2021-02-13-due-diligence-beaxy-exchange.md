@@ -6,6 +6,7 @@ author:     Niklas Engblom
 summary:    Due diligence - a research on Beaxy
 categories: General
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - investing
  - cryptocurrency

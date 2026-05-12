@@ -5,7 +5,7 @@ date:       2020-12-03 17:30:00
 author:     Niklas Engblom
 summary:    tldr; being able and know how to work on the big picture, and doing so by collaborating with other people (business and tech). Ideally based on experience.
 categories: General
-thumbnail:  vcard
+thumbnail:  address-card
 tags:
  - software
  - developer

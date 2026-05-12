@@ -4,9 +4,10 @@ language:   fi
 title:      Miksi kryptovaluutat ovat mielenkiintoisia
 date:       2018-05-02 17:30:00
 author:     Niklas Engblom
-summary:    Lohkoketjun ansiosta kryptovaluutoilla on kiinnostusta herättäviä ominaisuuksia. Lyhyehkö katsaus hyvistä ja huonoista puolista. 
+summary:    Lohkoketjun ansiosta kryptovaluutoilla on kiinnostusta herättäviä ominaisuuksia. Lyhyehkö katsaus hyvistä ja huonoista puolista.
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

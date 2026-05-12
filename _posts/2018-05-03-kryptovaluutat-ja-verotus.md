@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Miten verotus toimii kryptovaluuttojen louhinnan osalta?
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

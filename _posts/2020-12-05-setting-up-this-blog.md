@@ -3,9 +3,9 @@ layout:     post
 title:      Setting up this blog
 date:       2020-12-05 10:00:00
 author:     Niklas Engblom
-summary:    Setting up this blog 
+summary:    Setting up this blog
 categories: General
-thumbnail:  pencil-square-o
+thumbnail:  pen-to-square
 tags:
  - blog
  - jekyll

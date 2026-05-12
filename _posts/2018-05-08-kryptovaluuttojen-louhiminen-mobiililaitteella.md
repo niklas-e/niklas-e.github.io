@@ -7,6 +7,7 @@ author:     Niklas Engblom
 summary:    Toimiiko kryptovaluuttojen louhiminen mobiililaitteella ja jos toimii, miten?
 categories: Finnish
 thumbnail:  btc
+thumbnail_style: fa-brands
 tags:
  - cryptocurrency
  - kryptovaluutta

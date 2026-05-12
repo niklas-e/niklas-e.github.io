@@ -5,7 +5,7 @@ date:       2026-05-12 18:00:00
 author:     Niklas Engblom
 summary:    Popover API and CSS anchor positioning can finally move a big part of popover positioning logic into the browser.
 categories: Code
-thumbnail:  browser
+thumbnail:  globe
 tags:
  - web
  - development

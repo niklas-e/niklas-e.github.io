@@ -6,7 +6,7 @@
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
 /* Colours */
-$twitter: #6dabda;
+$x-twitter: #6dabda;
 $linkedin: #2b77b1;
 $xing: #006567;
 $google-plus: #c95644;
@@ -213,7 +213,7 @@ ul {
 
   .pages {
 
-    .fa {
+    .fa-solid {
       margin-right: 10px;
     }
   }
@@ -233,14 +233,14 @@ ul {
     }
   }
 
-  .fa {
+  .fa-solid, .fa-brands {
     -webkit-transition: 0.3s;
     -moz-transition: 0.3s;
     transition: 0.3s;
   }
 
-  .fa-twitter:hover {
-    color: $twitter;
+  .fa-x-twitter:hover {
+    color: $x-twitter;
   }
 
   .fa-linkedin:hover {
